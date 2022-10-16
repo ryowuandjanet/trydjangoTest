@@ -1,0 +1,223 @@
+[
+{
+    "model": "recipes.recipe",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "name": "testingrdient",
+        "description": "雞肉、辣椒",
+        "directions": "美味",
+        "timestamp": "2022-10-16T03:29:37.086Z",
+        "updated": "2022-10-16T06:59:36.009Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 1,
+    "fields": {
+        "recipe": 1,
+        "name": "雞肉",
+        "description": "要嫩的",
+        "quantity": "4",
+        "quantity_as_float": 4.0,
+        "unit": "ounces",
+        "directions": "預訂",
+        "timestamp": "2022-10-16T03:30:52.541Z",
+        "updated": "2022-10-16T06:59:36.036Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 2,
+    "fields": {
+        "recipe": 1,
+        "name": "testingrdient",
+        "description": null,
+        "quantity": "29",
+        "quantity_as_float": 29.0,
+        "unit": "pounds",
+        "directions": null,
+        "timestamp": "2022-10-16T05:49:17.472Z",
+        "updated": "2022-10-16T06:59:36.063Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 3,
+    "fields": {
+        "recipe": 1,
+        "name": "蔥",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:32:57.043Z",
+        "updated": "2022-10-16T06:59:36.088Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 4,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:33:32.770Z",
+        "updated": "2022-10-16T06:59:36.114Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 5,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:48:06.849Z",
+        "updated": "2022-10-16T06:59:36.140Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 6,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:48:54.217Z",
+        "updated": "2022-10-16T06:59:36.168Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 7,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:49:00.297Z",
+        "updated": "2022-10-16T06:59:36.194Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 8,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:50:43.557Z",
+        "updated": "2022-10-16T06:59:36.220Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 9,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:50:48.215Z",
+        "updated": "2022-10-16T06:59:36.247Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 10,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:53:37.657Z",
+        "updated": "2022-10-16T06:59:36.275Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 11,
+    "fields": {
+        "recipe": 1,
+        "name": "www",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:53:40.694Z",
+        "updated": "2022-10-16T06:59:36.317Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 12,
+    "fields": {
+        "recipe": 1,
+        "name": "蔥",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:54:46.027Z",
+        "updated": "2022-10-16T06:59:36.342Z",
+        "active": true
+    }
+},
+{
+    "model": "recipes.recipeingredient",
+    "pk": 13,
+    "fields": {
+        "recipe": 1,
+        "name": "蔥",
+        "description": null,
+        "quantity": "23",
+        "quantity_as_float": 23.0,
+        "unit": "pound",
+        "directions": null,
+        "timestamp": "2022-10-16T06:54:49.953Z",
+        "updated": "2022-10-16T06:59:36.371Z",
+        "active": true
+    }
+}
+]

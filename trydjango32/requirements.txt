@@ -1,0 +1,9 @@
+asgiref==3.5.2
+dataclasses==0.6
+Django==3.2.9
+django-dotenv==1.4.2
+django-htmx==1.12.2
+future==0.18.2
+Pint==0.19.2
+pytz==2022.4
+sqlparse==0.4.3
